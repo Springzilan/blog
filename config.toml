@@ -1,8 +1,8 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://borber.cn"
-title = "BORBER"
+baseURL = "https://springzilan.vercel.app"
+title = "Spring"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -92,17 +92,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "BORBER"
+    name = "Springzilan"
     # 邮箱
-    email = "borber.drum@gmail.com"
+    email = "springzilan@gmail.com"
     # 座右铭或简介
-    motto = "跌宕歌词 纵横书卷 不与遣年华"
+    motto = "一只小菜鸡"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://borber.cn/"
+    website = "https://springzilan.vercel.app/"
     # 推特
-    twitter = "BORBER_X"
+    twitter = ""
 
 # 相关文章
 [related]
@@ -335,7 +335,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "跌宕歌词 纵横书卷 不与遣年华"
+    siteDescription = "两只菜鸡"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -344,7 +344,7 @@ uglyURLs = false
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "BORBER_X"
+    siteTwitter = ""
     # 说明：用于 Twitter Cards
 
 
@@ -1043,9 +1043,9 @@ uglyURLs = false
     #      的优先级高于此处
 
     # 仓库地址
-    repoURL = "https://github.com/Borber/blog"
+    repoURL = "https://github.com/Springzilan/blog"
     # 编辑地址
-    repoEditURL = "https://github.com/Borber/blog/blob/master"
+    repoEditURL = "https://github.com/Springzilan/blog/blob/master"
 
     # Git 的图标
     gitIcon = "code-branch"
